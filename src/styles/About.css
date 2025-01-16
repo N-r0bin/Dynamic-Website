@@ -20,7 +20,6 @@
 @media (min-width: 768px) {
     .about-content {
         flex-direction: row;
-        /* Align side by side on larger screens */
     }
 }
 
