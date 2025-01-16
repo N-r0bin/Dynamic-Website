@@ -15,7 +15,21 @@ A dynamic and animated company website portfolio, showcasing modern design princ
 - <b>React:</b> Utilized for building the component-based user interface.
   
 - <b>Formspree:<b> Simplifies form handling and email submissions.
-  
+
+## Preview
+
+
+https://github.com/user-attachments/assets/73fedd70-f0d9-4e93-b527-f3a451f07e26
+
+
+## License
+
+This project is licensed under the <a href="https://github.com/N-r0bin/Dynamic-Website/blob/master/LICENSE">MIT License</a>
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request if you'd like to help improve this project.
+
 ## Getting Started
 
 1. Clone the repository:
